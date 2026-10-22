@@ -1,1 +1,1 @@
-"Texte initial dans master" 
+"Texte modifie par branche1" 
